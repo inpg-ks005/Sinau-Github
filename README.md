@@ -1,1 +1,3 @@
 # Sinau-Github
+
+latihan deck
